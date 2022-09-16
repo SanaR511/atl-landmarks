@@ -6,19 +6,23 @@ const Footer = () => {
       <hr />
       <p className="flex justify-center m-5 text-gray-600 text-sm">
         Made by&nbsp;
-        <a href="https://github.com/suzm10" className="footerlink">
-          Suzan
-        </a>
-        &nbsp;and&nbsp;
         <a href="https://github.com/SanaR511" className="footerlink">
           Sana
         </a>
+        &nbsp;,&nbsp;
+        <a href="" className="footerlink">
+          Megan
+        </a>
+        &nbsp;, and&nbsp;
+        <a href="" className="footerlink">
+          Mary
+        </a>
         &nbsp;for&nbsp;
         <a
-          href="https://atlanta.techtogether.io/#portfolio"
+          href="https://ccse.kennesaw.edu/events/hackathon-fall-2022.php"
           className="footerlink"
         >
-          Techtogether Atlanta
+          KSU Fall 2022 Hackathon
         </a>
       </p>
     </footer>

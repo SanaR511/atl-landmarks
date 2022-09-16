@@ -10,7 +10,7 @@ const Navbar = () => {
       <div>
         <Link href="/" passHref>
           <a className="text-gray-50 font-bold text-xl sm:text-2xl">
-            ATL Civil Rights Landmarks
+            Diabetes Predictor
           </a>
         </Link>
       </div>
